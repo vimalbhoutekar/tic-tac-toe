@@ -7,7 +7,8 @@
 
 A modern implementation of the classic Tic Tac Toe game featuring human vs. computer gameplay with a clean, responsive interface.
 
-![Game Screenshot](/screenshot.png) <!-- Add your screenshot here -->
+![Game Screenshot](![image](https://github.com/user-attachments/assets/2537e118-54aa-4754-9bea-714d1de07d18)
+.png)
 
 ## Features
 
